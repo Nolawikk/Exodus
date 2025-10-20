@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="pGB7VA" name="Exodus" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17">
   <MAINGROUP id="SWUh8u" name="Exodus">
     <GROUP id="{281B23AC-2DF2-FFFC-8D67-DF32566DC714}" name="Source">
       <FILE id="nKFojZ" name="PluginProcessor.cpp" compile="1" resource="0"
